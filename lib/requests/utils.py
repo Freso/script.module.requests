@@ -506,8 +506,8 @@ def default_user_agent():
         _implementation_version = 'Unknown'
 
     try:
-        p_system = platform.system()
-        p_release = platform.release()
+        p_system = 'XBMC'
+        p_release = '12.0'
     except IOError:
         p_system = 'Unknown'
         p_release = 'Unknown'
