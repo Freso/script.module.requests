@@ -13,5 +13,6 @@
     <description>Packed for XBMC from https://github.com/kennethreitz/requests</description>
     <license>Apache</license>
     <platform>all</platform>
+    <source>https://github.com/beenje/script.module.requests</source>
   </extension>
 </addon>
