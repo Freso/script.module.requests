@@ -2,7 +2,7 @@
 <addon id="script.module.requests"
        name="requests"
        version="2.12.4"
-       provider-name="kennethreitz, beenje">
+       provider-name="kennethreitz, beenje, Freso">
   <requires>
     <import addon="xbmc.python" version="2.14.0"/>
   </requires>
@@ -16,7 +16,7 @@
     <license>Apache2</license>
     <forum></forum>
     <website>http://python-requests.org</website>
-    <source>https://github.com/beenje/script.module.requests</source>
-    <email>beenje AT gmail.com</email>
+    <source>https://github.com/Freso/script.module.requests</source>
+    <email>freso.dk AT gmail.com</email>
   </extension>
 </addon>
