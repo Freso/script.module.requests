@@ -20,7 +20,7 @@
     <license>Apache2</license>
     <forum></forum>
     <website>http://python-requests.org</website>
-    <source>https://github.com/beenje/script.module.requests</source>
-    <email>beenje AT gmail.com</email>
+    <source>https://github.com/Freso/script.module.requests</source>
+    <email>freso.dk AT gmail.com</email>
   </extension>
 </addon>
