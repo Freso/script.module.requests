@@ -22,5 +22,8 @@
     <website>http://python-requests.org</website>
     <source>https://github.com/Freso/script.module.requests</source>
     <email>freso.dk AT gmail.com</email>
+    <assets>
+      <icon>resources/icon.png</icon>
+    </assets>
   </extension>
 </addon>
